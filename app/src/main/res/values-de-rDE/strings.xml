@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uhr nach rechts</string>
+    <string name="xposed_desc">Verschiebe die Uhr in der Statusleiste zurück nach rechts</string>
+</resources>
