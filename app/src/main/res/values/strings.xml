@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Clock on the Right</string>
+    <string name="xposed_desc">Move the status bar clock back to the right side</string>
 </resources>
